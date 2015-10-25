@@ -1,0 +1,3 @@
+[submodule "FSMProtocol"]
+	path = FSMProtocol
+	url = https://github.com/thbonotto/FSMProtocol
